@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS_</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>21D3D3</corfondo>
+        <corbanda>4FA5EC</corbanda>
+        <cornavega>46C9F4</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <imaxefondo posx="-122" posy="-190" trans="5">pngwing.com.png</imaxefondo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >VUELVE A INTENTARLO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>pngwing.com_(2).png</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#2F97FF" face="Segoe UI Emoji" size="46"><b>🤩B</b></font><font color="#2F97FF" face="Segoe" size="46"><b>ienve</b></font><font color="#2F97FF" face="Franklin" size="46"><b>nidos exploradores del futuro🚀</b><br>
+<br>
+Hoy apr</font><font color="#2F97FF" face="Franklin" size="32">en</font><font color="#2F97FF" face="Segoe" size="32">de</font><font color="#3392FB" face="Franklin" size="32">remos sobre la Realidad Aumentada, una tecnología que mezcla el mundo real con elementos digitales.<br>
+<br>
+<br>
+¿</font><font color="#FF3E3E" face="Calibri" size="32"><b>Es</b></font><font color="#FF3E3E" face="Franklin" size="32"><b>tás listo para comenzar esta aventura?</b><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</font></p>
+]]></texto>
+              <cfondo>21D3D3</cfondo>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>pngwing.com_(1).png</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#F3072B" face="Arial" size="32"><b>¿Qué es la Realidad Aumentada?</b><br>
+<br>
+</font><font color="#080000" face="Arial" size="24">La realidad aumentada (RA) permite ver imágenes o información digital sobre el mundo real usando un celular, una tablet o unas gafas especiales. </font><font color="#080000" face="Segoe UI Symbol" size="24">📱🐱<br>
+<br>
+</font><font color="#080000" face="Arial" size="24">Por ejemplo, puedes apuntar tu cámara al salón de clases y ver dinosaurios caminando o letras flotando.🚀</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>1</tipo>
+              <texto>¿Qué dispositivo NO se usa para ver realidad aumentada?</texto>
+              <resp texto="" valor="0">Celular📱</resp>
+              <resp texto="" valor="1">Reloj de arena⏳​</resp>
+              <resp texto="" valor="0">Tablet​📳​</resp>
+              <resp texto="" valor="0">Gafas especiales🥽</resp>
+        </paxina>
+        <paxina id="4" >
+              <tipo>6</tipo>
+              <nome caixa="1">Una manzana real 🍎</nome>
+              <nome caixa="2">Un dinosaurio 3D que sale del celular 🦖📱</nome>
+              <nome caixa="1">Un lápiz</nome>
+              <nome caixa="2">Una animación que aparece al escanear una revista 📖✨</nome>
+              <nome caixa="1">Un perro real 🐕</nome>
+              <nome caixa="2">Un mapa interactivo flotante 📍🗺️</nome>
+              <caixa1>Mundo Real</caixa1>
+              <caixa2>Realidad Aumentada</caixa2>
+        </paxina>
+        <paxina id="5" >
+              <tipo>18</tipo>
+              <modo>3</modo>
+              <completa ant="La realidad aumentada mezcla el mundo real con elementos " post="">digitales.</completa>
+              <completa ant="La RA es una" post="divertida y educativa.">tecnología</completa>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>pngwing.com_(3).png</imaxe>
+              <forma>1</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#E6E600" face="Arial" size="46">¡Muy bien! Ya sabes qué es la realidad aumentada.<br>
+<br>
+</font><font color="#16C1FA" face="Arial" size="32">Imagina que tu salón se llena de animales, planetas o letras flotantes.<br>
+<br>
+¿Qué te gustaría ver con realidad aumentada en tu clase?</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
